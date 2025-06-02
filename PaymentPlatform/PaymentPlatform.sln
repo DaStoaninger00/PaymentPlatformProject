@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentPlatform", "PaymentPlatform\PaymentPlatform.csproj", "{7745BA11-F9D6-4DE4-B844-58D09AB685BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentPlatform.Tests", "PaymentPlatform.Tests\PaymentPlatform.Tests.csproj", "{E4100D21-7891-48F8-8295-810181F8680F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7745BA11-F9D6-4DE4-B844-58D09AB685BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7745BA11-F9D6-4DE4-B844-58D09AB685BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7745BA11-F9D6-4DE4-B844-58D09AB685BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7745BA11-F9D6-4DE4-B844-58D09AB685BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4100D21-7891-48F8-8295-810181F8680F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4100D21-7891-48F8-8295-810181F8680F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4100D21-7891-48F8-8295-810181F8680F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4100D21-7891-48F8-8295-810181F8680F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {253808FE-8CB4-4A43-819D-7F814EAA54E6}
+	EndGlobalSection
+EndGlobal
